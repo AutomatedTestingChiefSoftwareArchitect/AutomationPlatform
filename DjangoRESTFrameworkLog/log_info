@@ -1,0 +1,7 @@
+[2020-04-14 17:09:40,425][MainThread:10960][task_id:django.utils.autoreload][autoreload.py:597][INFO][Watching for file changes with StatReloader]
+[2020-04-14 17:09:47,282][Thread-1:2088][task_id:DjangoRESTFramework.RestFrameworkUser.InterfacePlatform][InterfacePlatform.py:111][ERROR][1864182485597971285]
+[2020-04-14 17:09:47,283][Thread-1:2088][task_id:DjangoRESTFramework.RestFrameworkUser.InterfacePlatform][InterfacePlatform.py:111][ERROR][伟大的航海后半段、]
+[2020-04-14 17:10:21,787][MainThread:10960][task_id:django.utils.autoreload][autoreload.py:217][INFO][C:\Users\Administrator\PycharmProjects\AutomationPlatform\DjangoRESTFramework\RestFrameworkUser\InterfacePlatform.py changed, reloading.]
+[2020-04-14 17:10:22,592][MainThread:6912][task_id:django.utils.autoreload][autoreload.py:597][INFO][Watching for file changes with StatReloader]
+[2020-04-14 17:10:24,864][Thread-1:1800][task_id:DjangoRESTFramework.RestFrameworkUser.InterfacePlatform][InterfacePlatform.py:111][INFO][1864182485597971285]
+[2020-04-14 17:10:24,864][Thread-1:1800][task_id:DjangoRESTFramework.RestFrameworkUser.InterfacePlatform][InterfacePlatform.py:111][INFO][伟大的航海后半段、]
